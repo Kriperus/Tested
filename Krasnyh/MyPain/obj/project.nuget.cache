@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9KlQsA5HaAM=",
+  "success": true,
+  "projectFilePath": "/home/user/Документы/Krasnyh/MyPain/MyPain.fsproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
