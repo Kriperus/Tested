@@ -1,0 +1,15 @@
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/Компилятор
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/Компилятор.deps.json
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/Компилятор.runtimeconfig.json
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/Компилятор.dll
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/ref/Компилятор.dll
+/home/user/RiderProjects/Компилятор/Компилятор/bin/Debug/net6.0/Компилятор.pdb
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.csproj.AssemblyReference.cache
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.AssemblyInfoInputs.cache
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.AssemblyInfo.cs
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.dll
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/ref/Компилятор.dll
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.pdb
+/home/user/RiderProjects/Компилятор/Компилятор/obj/Debug/net6.0/Компилятор.genruntimeconfig.cache
